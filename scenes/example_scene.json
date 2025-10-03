@@ -1,0 +1,30 @@
+{
+    "walls":[
+        {
+            "path":".../Data/TankI/box/sim_0001_rotated_box.obj",
+            "translation":[
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "fluids":[
+        {
+            "path":".../Data/TankI/fluid/sim_0001_rotated_fluid.obj",
+            "velocity":[
+                0.3,
+                0,
+                0.2
+            ],
+            "translation":[
+                0,
+                0,
+                0
+            ],
+            "start":0,
+            "stop":1,
+            "step":1
+        }
+    ]
+}
